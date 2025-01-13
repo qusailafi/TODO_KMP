@@ -1,0 +1,153 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.todo.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <permission
+11-->[androidx.core:core:1.13.1] /Users/nextwo/.gradle/caches/8.9/transforms/758db9d11836e58a0afd882d9fd2094e/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+12        android:name="org.todo.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.13.1] /Users/nextwo/.gradle/caches/8.9/transforms/758db9d11836e58a0afd882d9fd2094e/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.13.1] /Users/nextwo/.gradle/caches/8.9/transforms/758db9d11836e58a0afd882d9fd2094e/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="org.todo.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.13.1] /Users/nextwo/.gradle/caches/8.9/transforms/758db9d11836e58a0afd882d9fd2094e/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.13.1] /Users/nextwo/.gradle/caches/8.9/transforms/758db9d11836e58a0afd882d9fd2094e/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->/Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:4:5-21:19
+18        android:allowBackup="true"
+18-->/Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:5:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.13.1] /Users/nextwo/.gradle/caches/8.9/transforms/758db9d11836e58a0afd882d9fd2094e/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@mipmap/ic_launcher"
+22-->/Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:6:9-43
+23        android:label="@string/app_name"
+23-->/Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:7:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->/Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:8:9-54
+25        android:supportsRtl="true"
+25-->/Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:9:9-35
+26        android:testOnly="true"
+27        android:theme="@android:style/Theme.Material.Light.NoActionBar" >
+27-->/Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:10:9-72
+28        <activity
+28-->/Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:11:9-20:20
+29            android:name="org.todo.app.MainActivity"
+29-->/Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:14:13-41
+30            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden|mnc|colorMode|density|fontScale|fontWeightAdjustment|keyboard|layoutDirection|locale|mcc|navigation|smallestScreenSize|touchscreen|uiMode"
+30-->/Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:13:13-225
+31            android:exported="true" >
+31-->/Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:12:13-36
+32            <intent-filter>
+32-->/Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:15:13-19:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->/Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:16:17-69
+33-->/Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:16:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->/Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:18:17-77
+35-->/Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:18:27-74
+36            </intent-filter>
+37        </activity>
+38
+39        <provider
+39-->[org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/nextwo/.gradle/caches/8.9/transforms/de407fc9e9fcc04f162df989a3687e23/transformed/library-release/AndroidManifest.xml:8:9-13:20
+40            android:name="org.jetbrains.compose.resources.AndroidContextProvider"
+40-->[org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/nextwo/.gradle/caches/8.9/transforms/de407fc9e9fcc04f162df989a3687e23/transformed/library-release/AndroidManifest.xml:9:13-82
+41            android:authorities="org.todo.app.resources.AndroidContextProvider"
+41-->[org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/nextwo/.gradle/caches/8.9/transforms/de407fc9e9fcc04f162df989a3687e23/transformed/library-release/AndroidManifest.xml:10:13-84
+42            android:enabled="true"
+42-->[org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/nextwo/.gradle/caches/8.9/transforms/de407fc9e9fcc04f162df989a3687e23/transformed/library-release/AndroidManifest.xml:11:13-35
+43            android:exported="false" >
+43-->[org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/nextwo/.gradle/caches/8.9/transforms/de407fc9e9fcc04f162df989a3687e23/transformed/library-release/AndroidManifest.xml:12:13-37
+44        </provider>
+45
+46        <activity
+46-->[androidx.compose.ui:ui-tooling-android:1.7.1] /Users/nextwo/.gradle/caches/8.9/transforms/a65c913a63e61c2ebc0bde7e60556282/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+47            android:name="androidx.compose.ui.tooling.PreviewActivity"
+47-->[androidx.compose.ui:ui-tooling-android:1.7.1] /Users/nextwo/.gradle/caches/8.9/transforms/a65c913a63e61c2ebc0bde7e60556282/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+48            android:exported="true" />
+48-->[androidx.compose.ui:ui-tooling-android:1.7.1] /Users/nextwo/.gradle/caches/8.9/transforms/a65c913a63e61c2ebc0bde7e60556282/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+49
+50        <provider
+50-->[androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/24d453cbc40bac9c978e748679ff5160/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+51            android:name="androidx.startup.InitializationProvider"
+51-->[androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/24d453cbc40bac9c978e748679ff5160/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+52            android:authorities="org.todo.app.androidx-startup"
+52-->[androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/24d453cbc40bac9c978e748679ff5160/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+53            android:exported="false" >
+53-->[androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/24d453cbc40bac9c978e748679ff5160/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+54            <meta-data
+54-->[androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/24d453cbc40bac9c978e748679ff5160/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+55                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+55-->[androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/24d453cbc40bac9c978e748679ff5160/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+56                android:value="androidx.startup" />
+56-->[androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/24d453cbc40bac9c978e748679ff5160/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+57            <meta-data
+57-->[androidx.lifecycle:lifecycle-process:2.8.5] /Users/nextwo/.gradle/caches/8.9/transforms/4a8d71ba41520064aafa0cc6c8f62453/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:29:13-31:52
+58                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+58-->[androidx.lifecycle:lifecycle-process:2.8.5] /Users/nextwo/.gradle/caches/8.9/transforms/4a8d71ba41520064aafa0cc6c8f62453/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:30:17-78
+59                android:value="androidx.startup" />
+59-->[androidx.lifecycle:lifecycle-process:2.8.5] /Users/nextwo/.gradle/caches/8.9/transforms/4a8d71ba41520064aafa0cc6c8f62453/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:31:17-49
+60            <meta-data
+60-->[io.realm.kotlin:cinterop-android:1.9.0] /Users/nextwo/.gradle/caches/8.9/transforms/06ebc5bf3e6ffbbf36719147da65ebbe/transformed/cinterop-release/AndroidManifest.xml:32:13-34:52
+61                android:name="io.realm.kotlin.internal.RealmInitializer"
+61-->[io.realm.kotlin:cinterop-android:1.9.0] /Users/nextwo/.gradle/caches/8.9/transforms/06ebc5bf3e6ffbbf36719147da65ebbe/transformed/cinterop-release/AndroidManifest.xml:33:17-73
+62                android:value="androidx.startup" />
+62-->[io.realm.kotlin:cinterop-android:1.9.0] /Users/nextwo/.gradle/caches/8.9/transforms/06ebc5bf3e6ffbbf36719147da65ebbe/transformed/cinterop-release/AndroidManifest.xml:34:17-49
+63            <meta-data
+63-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+64                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+64-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+65                android:value="androidx.startup" />
+65-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+66        </provider>
+67
+68        <receiver
+68-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+69            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+69-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+70            android:directBootAware="false"
+70-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+71            android:enabled="true"
+71-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+72            android:exported="true"
+72-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+73            android:permission="android.permission.DUMP" >
+73-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+74            <intent-filter>
+74-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+75                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+75-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+75-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+76            </intent-filter>
+77            <intent-filter>
+77-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+78                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+78-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+78-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+79            </intent-filter>
+80            <intent-filter>
+80-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+81                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+81-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+81-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+82            </intent-filter>
+83            <intent-filter>
+83-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+84                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+84-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+84-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/nextwo/.gradle/caches/8.9/transforms/c29be64a2ec83398d83f2b94d5fa53a3/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+85            </intent-filter>
+86        </receiver>
+87    </application>
+88
+89</manifest>

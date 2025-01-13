@@ -1,0 +1,344 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/b7188d0da111f875e4c266a24499d683/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.2] /Users/nextwo/.gradle/caches/8.9/transforms/c043cb167df5a7ddb9ed034ea024b4e4/transformed/activity-1.8.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/nextwo/.gradle/caches/8.9/transforms/48d15d6ba9d41341269dd603ed05d4b7/transformed/activity-ktx-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-koin-android-debug:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/c8b674560c4d2027491ec19601b40162/transformed/voyager-koin-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-screenmodel-android-debug:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/4ddfd17651b081c249bcd1e0b22d6361/transformed/voyager-screenmodel-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-transitions-android-debug:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/93579210a790d5731e05ad24514a654f/transformed/voyager-transitions-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-navigator-android-debug:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/1c22772b44b98a98ee5fb55978dc2c35/transformed/voyager-navigator-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.2.0] /Users/nextwo/.gradle/caches/8.9/transforms/cc7acb04fda64a36611dc71b7bf31de9/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [cafe.adriel.voyager:voyager-core-android-debug:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/52d0216d585ea16508ea82c0885286b0/transformed/voyager-core-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.8.2] /Users/nextwo/.gradle/caches/8.9/transforms/ed610093cdb7008330ab6e2e06c2e55d/transformed/activity-compose-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.6.0] /Users/nextwo/.gradle/caches/8.9/transforms/7cb28fb436c1897998e7899b6b10bf43/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /Users/nextwo/.gradle/caches/8.9/transforms/aebac8f64c38f36c2e5b2bae90fce2b9/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.0] /Users/nextwo/.gradle/caches/8.9/transforms/6beb183fe1ed199bfc9a7a2412740406/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.0] /Users/nextwo/.gradle/caches/8.9/transforms/95846dece16285287784d6ca59936bea/transformed/library-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/069fe36f4970a32f3a312cdd8b43c560/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/9953893e7462fac82b72959d00414781/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/2a3ab62c7fb51682d13385c1f3e34482/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/8f1e00bcfbe7e5034474717c69113d0b/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/189d9d28c717704d903321cfd58e69c4/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/e1daa3e51878c5aedf9f164687773b6b/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/1130988e5ded13750a8c1ce94f785f09/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/5790db2ae57798223e311f409f9a9c49/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/8dcf7a100084c74edb66919b4bbd5297/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/c8f17a2a3235548ee3d448061b360b01/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/nextwo/.gradle/caches/8.9/transforms/72c9e3d2ef553c1fac37cc64257250ef/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/176773a17fa43619348fc0ad63968e02/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/3b000b7af69fe7aa49361b043cc28927/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/d1548e83b0a120342140e018766f2bfe/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/fe3a3e40365e40b425697f4ba3a03695/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/42933d57916e5aae7a0bbc6db0d58e33/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/3e163126d51f13ac73a52c7544534f36/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/9e2efda25e0bb5fb0629fe77d55fd67e/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/8b7d20e4d08eaa7a682350ee703dc304/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/b7c76d2678623f0739bea5866fccb2cf/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/nextwo/.gradle/caches/8.9/transforms/0916a18f6e4a691c8d9cb38d6c6b0cd7/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/ee7526140119cc3d8917bff02370a1da/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/e0352d4831e3e389c280148610fab46d/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/a0d4a708fe155ee92efa5540d9816aac/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/d10b440005294ecabc96166b601c4a03/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/812552580d45d132321968a0c9bd717e/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/0ba8c99ee5fe33815d861ceee7779af9/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.0] /Users/nextwo/.gradle/caches/8.9/transforms/8fa981d90128d3d8b47b083615312a16/transformed/library-release/AndroidManifest.xml:2:1-7:12
+MERGED from [io.realm.kotlin:library-base-android:1.13.0] /Users/nextwo/.gradle/caches/8.9/transforms/5b866d3a6d4d2d95e6ad5e11160d5142/transformed/library-base-release/AndroidManifest.xml:18:1-26:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/b123e461c152991de5033611acb1bf90/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/d36d184672cac9a470f5d1f9a596df91/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/nextwo/.gradle/caches/8.9/transforms/8f01de534ae06de128b1f2e28a96a9d6/transformed/cinterop-release/AndroidManifest.xml:18:1-38:12
+MERGED from [org.mongodb.kbson:kbson-android-debug:0.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/28fd2ffd23bccfa4edbb7766851d2fbd/transformed/kbson-debug/AndroidManifest.xml:18:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/nextwo/.gradle/caches/8.9/transforms/2265195d734bd0d127e61c0f11c67511/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nextwo/.gradle/caches/8.9/transforms/a795141b7ad2846b0249d2778a6a487f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nextwo/.gradle/caches/8.9/transforms/1d11a650bfff4dbf3b05675e670de331/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/d0379384e7186f53a3a9299e8f636818/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nextwo/.gradle/caches/8.9/transforms/87b6b46f398b00472b9819a09f9a6889/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/1953f29de28221f89383dcb483a6a72a/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/nextwo/.gradle/caches/8.9/transforms/ddf9edfcc4be5d1e87a44b06f259cf73/transformed/relinker-1.4.5/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:4:5-21:19
+INJECTED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:4:5-21:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/fe3a3e40365e40b425697f4ba3a03695/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/fe3a3e40365e40b425697f4ba3a03695/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/42933d57916e5aae7a0bbc6db0d58e33/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/42933d57916e5aae7a0bbc6db0d58e33/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/3e163126d51f13ac73a52c7544534f36/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/3e163126d51f13ac73a52c7544534f36/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/0ba8c99ee5fe33815d861ceee7779af9/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/0ba8c99ee5fe33815d861ceee7779af9/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/nextwo/.gradle/caches/8.9/transforms/8f01de534ae06de128b1f2e28a96a9d6/transformed/cinterop-release/AndroidManifest.xml:26:5-36:19
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/nextwo/.gradle/caches/8.9/transforms/8f01de534ae06de128b1f2e28a96a9d6/transformed/cinterop-release/AndroidManifest.xml:26:5-36:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nextwo/.gradle/caches/8.9/transforms/a795141b7ad2846b0249d2778a6a487f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nextwo/.gradle/caches/8.9/transforms/a795141b7ad2846b0249d2778a6a487f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nextwo/.gradle/caches/8.9/transforms/1d11a650bfff4dbf3b05675e670de331/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nextwo/.gradle/caches/8.9/transforms/1d11a650bfff4dbf3b05675e670de331/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/42933d57916e5aae7a0bbc6db0d58e33/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:10:9-72
+activity#org.todo.app.MainActivity
+ADDED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:11:9-20:20
+	android:exported
+		ADDED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:12:13-36
+	android:configChanges
+		ADDED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:13:13-225
+	android:name
+		ADDED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:14:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/b7188d0da111f875e4c266a24499d683/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/b7188d0da111f875e4c266a24499d683/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] /Users/nextwo/.gradle/caches/8.9/transforms/c043cb167df5a7ddb9ed034ea024b4e4/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] /Users/nextwo/.gradle/caches/8.9/transforms/c043cb167df5a7ddb9ed034ea024b4e4/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/nextwo/.gradle/caches/8.9/transforms/48d15d6ba9d41341269dd603ed05d4b7/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/nextwo/.gradle/caches/8.9/transforms/48d15d6ba9d41341269dd603ed05d4b7/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-koin-android-debug:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/c8b674560c4d2027491ec19601b40162/transformed/voyager-koin-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-koin-android-debug:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/c8b674560c4d2027491ec19601b40162/transformed/voyager-koin-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-screenmodel-android-debug:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/4ddfd17651b081c249bcd1e0b22d6361/transformed/voyager-screenmodel-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-screenmodel-android-debug:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/4ddfd17651b081c249bcd1e0b22d6361/transformed/voyager-screenmodel-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-transitions-android-debug:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/93579210a790d5731e05ad24514a654f/transformed/voyager-transitions-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-transitions-android-debug:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/93579210a790d5731e05ad24514a654f/transformed/voyager-transitions-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-navigator-android-debug:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/1c22772b44b98a98ee5fb55978dc2c35/transformed/voyager-navigator-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-navigator-android-debug:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/1c22772b44b98a98ee5fb55978dc2c35/transformed/voyager-navigator-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.0] /Users/nextwo/.gradle/caches/8.9/transforms/cc7acb04fda64a36611dc71b7bf31de9/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.0] /Users/nextwo/.gradle/caches/8.9/transforms/cc7acb04fda64a36611dc71b7bf31de9/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [cafe.adriel.voyager:voyager-core-android-debug:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/52d0216d585ea16508ea82c0885286b0/transformed/voyager-core-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-core-android-debug:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/52d0216d585ea16508ea82c0885286b0/transformed/voyager-core-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] /Users/nextwo/.gradle/caches/8.9/transforms/ed610093cdb7008330ab6e2e06c2e55d/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] /Users/nextwo/.gradle/caches/8.9/transforms/ed610093cdb7008330ab6e2e06c2e55d/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.0] /Users/nextwo/.gradle/caches/8.9/transforms/7cb28fb436c1897998e7899b6b10bf43/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.0] /Users/nextwo/.gradle/caches/8.9/transforms/7cb28fb436c1897998e7899b6b10bf43/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /Users/nextwo/.gradle/caches/8.9/transforms/aebac8f64c38f36c2e5b2bae90fce2b9/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /Users/nextwo/.gradle/caches/8.9/transforms/aebac8f64c38f36c2e5b2bae90fce2b9/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.0] /Users/nextwo/.gradle/caches/8.9/transforms/6beb183fe1ed199bfc9a7a2412740406/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.0] /Users/nextwo/.gradle/caches/8.9/transforms/6beb183fe1ed199bfc9a7a2412740406/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.0] /Users/nextwo/.gradle/caches/8.9/transforms/95846dece16285287784d6ca59936bea/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.0] /Users/nextwo/.gradle/caches/8.9/transforms/95846dece16285287784d6ca59936bea/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/069fe36f4970a32f3a312cdd8b43c560/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/069fe36f4970a32f3a312cdd8b43c560/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/9953893e7462fac82b72959d00414781/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/9953893e7462fac82b72959d00414781/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/2a3ab62c7fb51682d13385c1f3e34482/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/2a3ab62c7fb51682d13385c1f3e34482/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/8f1e00bcfbe7e5034474717c69113d0b/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/8f1e00bcfbe7e5034474717c69113d0b/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/189d9d28c717704d903321cfd58e69c4/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/189d9d28c717704d903321cfd58e69c4/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/e1daa3e51878c5aedf9f164687773b6b/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/e1daa3e51878c5aedf9f164687773b6b/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/1130988e5ded13750a8c1ce94f785f09/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/1130988e5ded13750a8c1ce94f785f09/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/5790db2ae57798223e311f409f9a9c49/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/5790db2ae57798223e311f409f9a9c49/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/8dcf7a100084c74edb66919b4bbd5297/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/8dcf7a100084c74edb66919b4bbd5297/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/c8f17a2a3235548ee3d448061b360b01/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/c8f17a2a3235548ee3d448061b360b01/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/nextwo/.gradle/caches/8.9/transforms/72c9e3d2ef553c1fac37cc64257250ef/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/nextwo/.gradle/caches/8.9/transforms/72c9e3d2ef553c1fac37cc64257250ef/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/176773a17fa43619348fc0ad63968e02/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/176773a17fa43619348fc0ad63968e02/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/3b000b7af69fe7aa49361b043cc28927/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/3b000b7af69fe7aa49361b043cc28927/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/d1548e83b0a120342140e018766f2bfe/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/d1548e83b0a120342140e018766f2bfe/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/fe3a3e40365e40b425697f4ba3a03695/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/fe3a3e40365e40b425697f4ba3a03695/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/42933d57916e5aae7a0bbc6db0d58e33/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/42933d57916e5aae7a0bbc6db0d58e33/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/3e163126d51f13ac73a52c7544534f36/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/3e163126d51f13ac73a52c7544534f36/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/9e2efda25e0bb5fb0629fe77d55fd67e/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/9e2efda25e0bb5fb0629fe77d55fd67e/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/8b7d20e4d08eaa7a682350ee703dc304/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/8b7d20e4d08eaa7a682350ee703dc304/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/b7c76d2678623f0739bea5866fccb2cf/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/b7c76d2678623f0739bea5866fccb2cf/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/nextwo/.gradle/caches/8.9/transforms/0916a18f6e4a691c8d9cb38d6c6b0cd7/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/nextwo/.gradle/caches/8.9/transforms/0916a18f6e4a691c8d9cb38d6c6b0cd7/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/ee7526140119cc3d8917bff02370a1da/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/ee7526140119cc3d8917bff02370a1da/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/e0352d4831e3e389c280148610fab46d/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/e0352d4831e3e389c280148610fab46d/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/a0d4a708fe155ee92efa5540d9816aac/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/a0d4a708fe155ee92efa5540d9816aac/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/d10b440005294ecabc96166b601c4a03/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/d10b440005294ecabc96166b601c4a03/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/812552580d45d132321968a0c9bd717e/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/812552580d45d132321968a0c9bd717e/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/0ba8c99ee5fe33815d861ceee7779af9/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/0ba8c99ee5fe33815d861ceee7779af9/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.0] /Users/nextwo/.gradle/caches/8.9/transforms/8fa981d90128d3d8b47b083615312a16/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.0] /Users/nextwo/.gradle/caches/8.9/transforms/8fa981d90128d3d8b47b083615312a16/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [io.realm.kotlin:library-base-android:1.13.0] /Users/nextwo/.gradle/caches/8.9/transforms/5b866d3a6d4d2d95e6ad5e11160d5142/transformed/library-base-release/AndroidManifest.xml:22:5-24:41
+MERGED from [io.realm.kotlin:library-base-android:1.13.0] /Users/nextwo/.gradle/caches/8.9/transforms/5b866d3a6d4d2d95e6ad5e11160d5142/transformed/library-base-release/AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/b123e461c152991de5033611acb1bf90/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/b123e461c152991de5033611acb1bf90/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/d36d184672cac9a470f5d1f9a596df91/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/d36d184672cac9a470f5d1f9a596df91/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/nextwo/.gradle/caches/8.9/transforms/8f01de534ae06de128b1f2e28a96a9d6/transformed/cinterop-release/AndroidManifest.xml:22:5-24:41
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/nextwo/.gradle/caches/8.9/transforms/8f01de534ae06de128b1f2e28a96a9d6/transformed/cinterop-release/AndroidManifest.xml:22:5-24:41
+MERGED from [org.mongodb.kbson:kbson-android-debug:0.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/28fd2ffd23bccfa4edbb7766851d2fbd/transformed/kbson-debug/AndroidManifest.xml:23:5-25:41
+MERGED from [org.mongodb.kbson:kbson-android-debug:0.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/28fd2ffd23bccfa4edbb7766851d2fbd/transformed/kbson-debug/AndroidManifest.xml:23:5-25:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/nextwo/.gradle/caches/8.9/transforms/2265195d734bd0d127e61c0f11c67511/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/nextwo/.gradle/caches/8.9/transforms/2265195d734bd0d127e61c0f11c67511/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nextwo/.gradle/caches/8.9/transforms/a795141b7ad2846b0249d2778a6a487f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nextwo/.gradle/caches/8.9/transforms/a795141b7ad2846b0249d2778a6a487f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nextwo/.gradle/caches/8.9/transforms/1d11a650bfff4dbf3b05675e670de331/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nextwo/.gradle/caches/8.9/transforms/1d11a650bfff4dbf3b05675e670de331/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/d0379384e7186f53a3a9299e8f636818/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/d0379384e7186f53a3a9299e8f636818/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nextwo/.gradle/caches/8.9/transforms/87b6b46f398b00472b9819a09f9a6889/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nextwo/.gradle/caches/8.9/transforms/87b6b46f398b00472b9819a09f9a6889/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/1953f29de28221f89383dcb483a6a72a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nextwo/.gradle/caches/8.9/transforms/1953f29de28221f89383dcb483a6a72a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/nextwo/.gradle/caches/8.9/transforms/ddf9edfcc4be5d1e87a44b06f259cf73/transformed/relinker-1.4.5/AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/nextwo/.gradle/caches/8.9/transforms/ddf9edfcc4be5d1e87a44b06f259cf73/transformed/relinker-1.4.5/AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nextwo/Desktop/+/TodApp/composeApp/src/androidMain/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/fe3a3e40365e40b425697f4ba3a03695/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/3e163126d51f13ac73a52c7544534f36/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/3e163126d51f13ac73a52c7544534f36/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/nextwo/.gradle/caches/8.9/transforms/8f01de534ae06de128b1f2e28a96a9d6/transformed/cinterop-release/AndroidManifest.xml:27:9-35:20
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/nextwo/.gradle/caches/8.9/transforms/8f01de534ae06de128b1f2e28a96a9d6/transformed/cinterop-release/AndroidManifest.xml:27:9-35:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nextwo/.gradle/caches/8.9/transforms/1d11a650bfff4dbf3b05675e670de331/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nextwo/.gradle/caches/8.9/transforms/1d11a650bfff4dbf3b05675e670de331/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/fe3a3e40365e40b425697f4ba3a03695/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/fe3a3e40365e40b425697f4ba3a03695/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/fe3a3e40365e40b425697f4ba3a03695/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/fe3a3e40365e40b425697f4ba3a03695/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/fe3a3e40365e40b425697f4ba3a03695/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/fe3a3e40365e40b425697f4ba3a03695/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/fe3a3e40365e40b425697f4ba3a03695/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/42933d57916e5aae7a0bbc6db0d58e33/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/42933d57916e5aae7a0bbc6db0d58e33/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/42933d57916e5aae7a0bbc6db0d58e33/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.stevdza_san.todo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/42933d57916e5aae7a0bbc6db0d58e33/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/42933d57916e5aae7a0bbc6db0d58e33/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/42933d57916e5aae7a0bbc6db0d58e33/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/42933d57916e5aae7a0bbc6db0d58e33/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/42933d57916e5aae7a0bbc6db0d58e33/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.stevdza_san.todo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/42933d57916e5aae7a0bbc6db0d58e33/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/nextwo/.gradle/caches/8.9/transforms/42933d57916e5aae7a0bbc6db0d58e33/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/3e163126d51f13ac73a52c7544534f36/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/3e163126d51f13ac73a52c7544534f36/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nextwo/.gradle/caches/8.9/transforms/3e163126d51f13ac73a52c7544534f36/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/0ba8c99ee5fe33815d861ceee7779af9/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/0ba8c99ee5fe33815d861ceee7779af9/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/nextwo/.gradle/caches/8.9/transforms/0ba8c99ee5fe33815d861ceee7779af9/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+meta-data#io.realm.kotlin.internal.RealmInitializer
+ADDED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/nextwo/.gradle/caches/8.9/transforms/8f01de534ae06de128b1f2e28a96a9d6/transformed/cinterop-release/AndroidManifest.xml:32:13-34:52
+	android:value
+		ADDED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/nextwo/.gradle/caches/8.9/transforms/8f01de534ae06de128b1f2e28a96a9d6/transformed/cinterop-release/AndroidManifest.xml:34:17-49
+	android:name
+		ADDED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/nextwo/.gradle/caches/8.9/transforms/8f01de534ae06de128b1f2e28a96a9d6/transformed/cinterop-release/AndroidManifest.xml:33:17-73
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nextwo/.gradle/caches/8.9/transforms/141ed5d10a3358a6565b2018f93d71d1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
